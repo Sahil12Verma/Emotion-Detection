@@ -8,4 +8,4 @@ pip install opencv-python
 pip install matplotlib
 <br>
 <br>
-<h3> This project will detect six different emotions i.e; happy, sad, angry, surprise, fear and neutral on real time images.</h2>
+<h4> This project will detect six different emotions i.e; happy, sad, angry, surprise, fear and neutral on real time images.</h2>
