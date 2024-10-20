@@ -1,5 +1,5 @@
 # Emotion-Detection
-Install required dependencies:-
+. Install required dependencies:-
 <br>
 pip install tensorflow
 <br>
